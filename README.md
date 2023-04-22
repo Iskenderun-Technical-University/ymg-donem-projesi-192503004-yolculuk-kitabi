@@ -24,8 +24,11 @@ ListViewController: Bu ekran, kullanıcıların eklediği yerlerin listelendiği
 ViewContoller: Bu ekran, kullanıcıların yeni yerler eklemeleri için tasarlanmıştır. Aşağıdaki öğeleri içerir:
 Mekan Adı TextField: Bu TextField, gidilmek istenen yerin adı için kullanılır. Kullanıcı buraya gidilecek mekanın adını yazmalıdır.
 Yorumlar TextField: Bu TextField, gidilmek istenen yere ait yorumlar için kullanılır. Kullanıcı buraya mekanla ilgili düşüncelerini, ipuçlarını veya deneyimlerini yazabilir.
+
 Harita: Bu harita, kullanıcıların gidilmek istenen yerin konumunu belirlemelerine olanak tanır. Harita üzerinde gidilmek istenen yeri belirlemek için kullanıcının basılı tutması gerekmektedir. Belirtilen konum, harita üzerinde bir pin ile işaretlenir.
-Save Butonu: Bu buton, kullanıcının mekan adı, yorumlar ve harita üzerinde belirlenen konumu kaydetmesini sağlar. "Save" butonuna tıklandığında, girilen bilgiler CoreData'ya kaydedilir ve ListViewController'daki TableView'a eklenir. Kaydetme işlemi tamamlandıktan sonra, uygulama otomatik olarak ListViewController ekranına geri döner ve eklenen mekanın adı listeye eklenir.
+Save Butonu: Bu buton, kullanıcının mekan adı, yorumlar ve harita üzerinde belirlenen konumu kaydetmesini sağlar. "Save" butonuna tıklandığında, girilen bilgiler CoreData'ya kaydedilir ve ListViewController'daki TableView'a eklenir. Kaydetme işlemi tamamlandıktan sonra, uygulama otomatik olarak 
+
+ListViewController ekranına geri döner ve eklenen mekanın adı listeye eklenir.
 Kullanıcılar, yeni yerler eklemek için sağ üst köşedeki "+" düğmesine tıklayarak açılan ViewController ekranında yer ve yorum bilgilerini girebilir. Gidilmek istenen yerin üzerine basılı tutarak yerin konumunu harita üzerinde işaretleyin. "Save" butonuna tıklayarak eklediğiniz yerin ve yorumun kaydedilmesini sağlayın.
 
 
