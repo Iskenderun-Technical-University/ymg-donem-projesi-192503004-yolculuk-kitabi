@@ -96,4 +96,22 @@ Kullanıcılar, yeni yerler eklemek için sağ üst köşedeki "+" düğmesine t
 <img width="474" alt="ViewController" src="https://user-images.githubusercontent.com/104498895/233783860-cc85e35e-9b66-4049-b021-c2b3cd48d6c6.png">
 
 
+Uygulama Use-Case Diyagramı
+
+Bu uygulama, kullanıcıların çeşitli yerlerle ilgili bilgi ekleyip, görüntülemelerine ve bu yerlerin detaylarına erişmelerine olanak tanır. Aşağıda, bu uygulamanın temel kullanım senaryolarını gösteren bir use-case diyagramı bulunmaktadır.
+
+<img width="628" alt="Use-Case Diyagramı" src="https://user-images.githubusercontent.com/104498895/235271072-fa198804-1420-4dfb-b116-c9eb89309a98.png">
+
+
+Kullanım Durumları
+
+1) Yer Listesini Görüntüle: Kullanıcılar uygulamayı açtıklarında, mevcut yerlerin listesini görebilirler.
+
+2)Yeni Yer Ekle: Kullanıcılar, yeni bir yer eklemek için "+" düğmesine tıklayarak, adı ve yorumuyla birlikte yerin detaylarını girebilirler. Ayrıca, harita üzerinde yerin konumunu seçebilirler.
+
+Aktörler
+
+Kullanıcı: Uygulamayı kullanan kişi. Kullanıcı, yerlerin listesini görüntüleyebilir, yeni yerler ekleyebilir ve yer detaylarını inceleyebilir.
+
+Bu kullanım durumları ve aktörler, uygulamanın temel işlevlerini ve kullanıcı etkileşimlerini temsil eder. Uygulama, bu temel özelliklerin üzerine kurulmuştur ve kullanıcılara yerler hakkında bilgi paylaşma ve keşfetme imkanı sunar. Bu use-case diyagramı, uygulamanın ana bileşenlerini ve işlevlerini görsel olarak özetlemektedir.
 
