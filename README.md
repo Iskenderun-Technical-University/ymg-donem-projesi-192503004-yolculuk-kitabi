@@ -1,8 +1,8 @@
-                                                                       Yolculuk Kitabı Uygulaması
+                                        Yolculuk Kitabı Uygulaması
 
 Yolculuk kitabı, yolculuk yapanlar ve gezginler için oluşturulmuş, iOS platformu üzerinde çalışan, Swift dilinde ve Xcode kullanılarak geliştirilmiş bir uygulamadır. Uygulama, kullanıcıların gezdikleri veya gitmeyi planladıkları yerlerin adlarını ve bu yerlere ait yorumlarını ekleyip, daha sonra bu bilgilere kolayca ulaşabilecekleri şekilde kaydetmelerine olanak tanır.
 
-                                                                           Özellikler
+                                          Özellikler
 
 Navigasyon: Uygulama içinde yer alan iki ekran arasında, kullanıcı dostu bir navigasyon sunar. Kullanıcılar, yerlerin listelendiği ana ekrandan, yeni yer ekleme ekranına kolaylıkla geçiş yapabilirler.
 
@@ -17,7 +17,7 @@ Mekan Listesi: Uygulama ana ekranında, kullanıcıların eklediği mekanların 
 
 
 
-                                                                      Ekranlar ve İçerikleri
+                                         Ekranlar ve İçerikleri
 
 ListViewController: Bu ekran, kullanıcıların eklediği yerlerin listelendiği bir TableView içerir. Her satır, kullanıcı tarafından eklenen ve CoreData'da saklanan bir mekanı temsil eder. Her satırın sol tarafında mekanın adı ve sağ tarafında bir ok simgesi bulunur. Ok simgesine tıklayarak mekanın detaylarını görebilirsiniz. Sağ üst köşede bulunan "+" butonu ile yeni yer ekleme ekranına geçiş yapılır.
 
@@ -36,7 +36,7 @@ Kullanıcılar, yeni yerler eklemek için sağ üst köşedeki "+" düğmesine t
 
 
 
-                                                                     Use-Case Diyagramı 
+                                         Use-Case Diyagramı 
 
 Bu uygulama, kullanıcıların çeşitli yerlerle ilgili bilgi ekleyip, görüntülemelerine ve bu yerlerin detaylarına erişmelerine olanak tanır. Aşağıda, bu uygulamanın temel kullanım senaryolarını gösteren bir use-case diyagramı bulunmaktadır.
 
@@ -56,12 +56,12 @@ Kullanıcı: Uygulamayı kullanan kişi. Kullanıcı, yerlerin listesini görün
 Bu kullanım durumları ve aktörler, uygulamanın temel işlevlerini ve kullanıcı etkileşimlerini temsil eder. Uygulama, bu temel özelliklerin üzerine kurulmuştur ve kullanıcılara yerler hakkında bilgi paylaşma ve keşfetme imkanı sunar. Bu use-case diyagramı, uygulamanın ana bileşenlerini ve işlevlerini görsel olarak özetlemektedir.
 
 
-                                                                   UML Diyagramı
+                                          UML Diyagramı
                              
 <img width="903" alt="UML Diyagramı" src="https://user-images.githubusercontent.com/104498895/235297818-06bb246b-d577-44c7-b679-7c0797746dc6.png">
 
 
-                                                                    Class Detayları
+                                        Class Detayları
 
 ListViewController 
         
