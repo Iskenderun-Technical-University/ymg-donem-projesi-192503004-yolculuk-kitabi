@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QA5O9x4M)
                                         Yolculuk Kitabı Uygulaması
 
 Yolculuk kitabı, yolculuk yapanlar ve gezginler için oluşturulmuş, iOS platformu üzerinde çalışan, Swift dilinde ve Xcode kullanılarak geliştirilmiş bir uygulamadır. Uygulama, kullanıcıların gezdikleri veya gitmeyi planladıkları yerlerin adlarını ve bu yerlere ait yorumlarını ekleyip, daha sonra bu bilgilere kolayca ulaşabilecekleri şekilde kaydetmelerine olanak tanır.
